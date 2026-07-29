@@ -1,0 +1,2 @@
+import DegreesReducibilitiesCanonicalLaneLean.GateLemmas
+import DegreesReducibilitiesCanonicalLaneLean.FinalTheorem
